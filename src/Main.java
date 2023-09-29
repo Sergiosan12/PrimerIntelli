@@ -5,6 +5,6 @@ public class Main {
         // Press Alt+Intro with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-        System.out.printf("bla bla");
+        System.out.println("modificacion");
     }
 }
